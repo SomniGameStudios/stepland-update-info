@@ -1,1 +1,9 @@
-{"latest_version":0.1}
+{
+  "latest_version": 0.1,
+  "android_latest_version": "0.2.0",
+  "android_description": "Bug fixes and new features!",
+  "android_store_url": "https://play.google.com/store/apps/details?id=your.app",
+  "ios_latest_version": "0.2.0", 
+  "ios_description": "Bug fixes and new features!",
+  "ios_store_url": "https://apps.apple.com/app/your-app/id123456789"
+}
