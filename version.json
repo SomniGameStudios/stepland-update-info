@@ -1,9 +1,9 @@
 {
   "latest_version": 0.1,
-  "android_latest_version": "0.3.3",
-  "android_changelog": "Bug fixes and new features!\n\nThis update includes:\n- Improved performance\n- Fixed minor bugs",
+  "android_latest_version": "0.3.4",
+  "android_changelog": "Bug fixes!\n\nThis update includes:\n- Fixed major bugs\n- Fixed minor bugs",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.somnigamestudios.stepland",
-  "ios_latest_version": "0.3.3", 
-  "ios_changelog": "Bug fixes and new features!\n\nThis update includes:\n- Improved performance\n- Fixed minor bugs",
-  "ios_store_url": "https://testflight.apple.com/join/yRxe1Ss6"
+  "ios_latest_version": "0.3.4",
+  "ios_changelog": "Bug fixes!\n\nThis update includes:\n- Fixed major bugs\n- Fixed minor bugs",
+  "ios_store_url": "https://testflight.apple.com/join/7xT8DSFS"
 }
