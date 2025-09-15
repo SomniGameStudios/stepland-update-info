@@ -3,7 +3,7 @@
   "android_latest_version": "0.3.5",
   "android_changelog": "Bug fixes and new features!\n\nThis update includes:\n- Improved performance\n- Fixed minor bugs",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.somnigamestudios.stepland",
-  "ios_latest_version": "0.3.5", 
+  "ios_latest_version": "0.3.3", 
   "ios_changelog": "Bug fixes and new features!\n\nThis update includes:\n- Improved performance\n- Fixed minor bugs",
   "ios_store_url": "https://testflight.apple.com/join/yRxe1Ss6"
 }
